@@ -26,7 +26,7 @@
 ### Build Tools
 
 - [Arma 3 Tools](https://store.steampowered.com/app/233800/Arma_3_Tools/) - Offical Arma 3 Tools ![Freeware][Freeware Icon]
-- [Armake](https://github.com/KoffeinFlummi/armake) - A C implementation of Arma modding tools (PAA conversion, binarization/rapification, PBO packing). ![Open-Source Software][OSS Icon](https://github.com/KoffeinFlummi/armake)
+- [Armake](https://github.com/KoffeinFlummi/armake) - A C implementation of Arma modding tools (PAA conversion, binarization/rapification, PBO packing). [![Open-Source Software][OSS Icon]](https://github.com/KoffeinFlummi/armake)
 - [Mikeros Tools](https://armaservices.maverick-applications.com/Products/MikerosDosTools/) - Paied Version of Fan made Arma 3 Tools
 - [Obfusqf](https://obfusqf.com/) - Fan Made Arma 3 PBO build Tool
 - [Mikeros Free Tools](https://armaservices.maverick-applications.com/Products/MikerosDosTools/FileBrowserFree) - Free Fan Made Arma 3 Tools ![Freeware][Freeware Icon]
