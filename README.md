@@ -15,7 +15,7 @@
   - [Build Tools](#Build_Tools)
   - [IDE](#IDE)
   - [Miscellaneous](#Miscellaneous)
-- [Discussion and News Forums](#Discussion and News Forums)
+- [Discussion and News Forums](#Discussion_and_News_Forums)
 - [Contribute](#Contribute)
 - [License](#License)
 
