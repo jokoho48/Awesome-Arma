@@ -84,6 +84,5 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-[Freeware Icon]: https://raw.githubusercontent.com/jokoho48/Awesome-Arma/master/media/free.svg
-[ OSS Icon ]: https://raw.githubusercontent.com/jokoho48/Awesome-Arma/master/media/OSS.svg
-
+[Freeware Icon]: https://cdn.jsdelivr.net/gh/jokoho48/Awesome-Arma@cd6f6b271675898d4f67b020d613ca549dc9a552/media/free.svg
+[ OSS Icon ]: https://cdn.jsdelivr.net/gh/jokoho48/Awesome-Arma@cd6f6b271675898d4f67b020d613ca549dc9a552/media/OSS.svg
