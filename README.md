@@ -13,9 +13,13 @@
 
 # <img src="https://raw.githubusercontent.com/jokoho48/Awesome-Arma/master/media/TOC.png" alt="table of contents">
 
-------
-
-[TOC]
+- [Applications](#Applications)
+  - [Build Tools](#Build Tools)
+  - [IDE](#IDE)
+  - [Miscellaneous](#Miscellaneous)
+- [Discussion and News Forums](#Discussion and News Forums)
+- [Contribute](#Contribute)
+- [License](#License)
 
 
 
