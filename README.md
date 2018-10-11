@@ -19,11 +19,9 @@
 - [Contribute](#Contribute)
 - [License](#License)
 
-
+------
 
 ## Applications
-
-------
 
 ### Build Tools
 
