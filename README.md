@@ -1,4 +1,4 @@
-# <img src="C:\Users\hoffm\Desktop\main-awesomeArma.png" width="400" alt="awesome arma 3">
+# <img src="https://raw.githubusercontent.com/jokoho48/Awesome-Arma/master/media/main-awesomeArma.png" width="400" alt="awesome arma 3">
 
 ------
 
@@ -11,7 +11,7 @@
 
 
 
-# <img src="C:\Users\hoffm\Desktop\TOC.png" alt="table of contents">
+# <img src="https://raw.githubusercontent.com/jokoho48/Awesome-Arma/master/media/TOC.png" alt="table of contents">
 
 ------
 
@@ -85,6 +85,6 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
-[OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg	"Open-Source Software"
-[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg	"Freeware"
+[OSS Icon]: https://raw.githubusercontent.com/jokoho48/Awesome-Arma/master/media/OSS.svg	"Open-Source Software"
+[Freeware Icon]: https://raw.githubusercontent.com/jokoho48/Awesome-Arma/master/media/free.svg	"Freeware"
 
