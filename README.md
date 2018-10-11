@@ -12,7 +12,7 @@
 # <img src="https://raw.githubusercontent.com/jokoho48/Awesome-Arma/master/media/TOC.png" alt="table of contents">
 
 - [Applications](#Applications)
-  - [Build Tools](#Build Tools)
+  - [Build Tools](#Build_Tools)
   - [IDE](#IDE)
   - [Miscellaneous](#Miscellaneous)
 - [Discussion and News Forums](#Discussion and News Forums)
