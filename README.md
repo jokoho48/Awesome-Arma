@@ -37,8 +37,6 @@
   - [linter-sqf](https://atom.io/packages/linter-sqf) - Linter for sqf (arma) launguage. [![Open-Source Software][OSS Icon]](https://github.com/LordGolias/linter-sqf)
   - [language-arma-atom](https://atom.io/packages/language-arma-atom) - Syntax highlighting, auto-completions and snippets for sqf and other languages used within the Real Virtuality engine. [![Open-Source Software][OSS Icon]](https://atom.io/packages/language-arma-atom)
   - [language-arma-atom-mapbuilder](https://atom.io/packages/language-arma-atom-mapbuilder) - Mapbuilder extension for Arma Language [![Open-Source Software][OSS Icon]](https://github.com/Adanteh/language-arma-atom-mapbuilder)
-  - [language-sqf](https://atom.io/packages/language-sqf) - Sqf language support in Atom. [![Open-Source Software][OSS Icon]](https://atom.io/packages/language-sqf)
-  - [atom-arma-language](https://atom.io/packages/atom-arma-language) - Arma language (sqf, sqs, sqm, hpp, cpp, ext, fsm, rpt, log, ini). [![Open-Source Software][OSS Icon]](https://atom.io/packages/atom-arma-language)
   - [arma-atom](https://atom.io/packages/arma-atom) - An atom plugin to run code in ARMA. [![Open-Source Software][OSS Icon]](https://github.com/maca134/arma-atom)
 - [VS Code](https://code.visualstudio.com/) - Visual Studio Scripting Editor based on Electron[![Open-Source Software][OSS Icon]](https://github.com/microsoft/vscode)
   - [SQF Language](https://marketplace.visualstudio.com/items?itemName=Armitxes.sqf) - Full SQF Language support for VS Code. [![Open-Source Software][OSS Icon]](https://github.com/Armitxes/VSCode_SQF)
@@ -46,7 +44,6 @@
   - [Open Last RPT](https://marketplace.visualstudio.com/items?itemName=bux578.vscode-openlastrpt) - Quickly opens the last Arma 3 log file (`*.rpt`). ![Freeware][Freeware Icon]
   - [SQF Wiki](https://marketplace.visualstudio.com/items?itemName=EelisLynne.sqf-wiki) - Want to look up some SQF functions? Now you can, with just a single click! [![Open-Source Software][OSS Icon]](https://github.com/eelislynne/SQF-Wiki-VSC)
   - [Arma Dev](https://marketplace.visualstudio.com/items?itemName=ole1986.arma-dev) - Arma 3 Developer automation tools[![Open-Source Software][OSS Icon]](https://github.com/ole1986/vscode-arma-dev)
-  - [SQF Language](https://marketplace.visualstudio.com/items?itemName=vlad333000.sqf) - SQF Language support for VS Code[![Open-Source Software][OSS Icon]](https://github.com/vlad333000/vscode-sqf)
 - [IDEA Community](https://www.jetbrains.com/idea) - Capable and Ergonomic IDE. [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community)
   - [Arma IntelliJ Plugin](https://plugins.jetbrains.com/plugin/9254-arma-intellij-plugin) - Arma IntelliJ Plugin provides support for the SQF scripting language used in the video game Arma 3.[![Open-Source Software][OSS Icon]](https://github.com/kayler-renslow/arma-intellij-plugin)
 - [Poseidon Tools](https://community.bistudio.com/wiki/Poseidon_Tools) - advanced text editor for Arma Scripts & Configs. ![Freeware][Freeware Icon]
