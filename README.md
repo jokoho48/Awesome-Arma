@@ -56,12 +56,19 @@
   - [OpenLastRPT](https://packagecontrol.io/packages/OpenLastRPT) - Open Last RPT (Arma log) file plugin for Sublime Text 2/3 [![Open-Source Software][OSS Icon]](https://github.com/jonpas/Sublime-OpenLastRPT)
   - [ArmaBuild](https://packagecontrol.io/packages/ArmaBuild) - Arma build system for Sublime Text 2/3. [![Open-Source Software][OSS Icon]](https://github.com/jonpas/Sublime-ArmaBuild)
 
+### Miscellaneous
 
-## Discussion Forums
+- [SQF-VM](https://github.com/SQFvm/vm) - Custom implementation of the ArmA script language SQF. [![Open-Source Software][OSS Icon]](https://github.com/SQFvm/vm)
+- [SQF Parser](https://github.com/LordGolias/sqf) - Parser, static analyzer and interpreter of SQF (Arma programming language). [![Open-Source Software][OSS Icon]](https://github.com/LordGolias/sqf)
+- [BIS-File-Format](https://github.com/Braini01/bis-file-formats) - C# .net standard code base for reading ArmA/BIS file formats. [![Open-Source Software][OSS Icon]](https://github.com/Braini01/bis-file-formats)
+
+## Discussion and News Forums 
 
 - [Offical Wiki](https://community.bistudio.com/wiki/Main_Page) - Official Bohemia Interactive Community Wiki
 - [Arma 3 Discord]() - Offical Arma Discord
 - [Bohemia Interactive Forums](http://forums.bistudio.com/) - Official Bohemia Interactive Community Forum
+- [Arma 3 Dev Hub](https://dev.arma3.com/) - Official Dev Hub for  [SITREPs](https://dev.arma3.com/sitrep), [SPOTREPs](https://dev.arma3.com/spotrep), [TECHREPs](https://dev.arma3.com/techrep) and [OPREPs](https://dev.arma3.com/oprep)
+- [Arma 3 Dev Branch Changelog](https://forums.bistudio.com/topic/140837-development-branch-changelog/?do=getLastComment) - Official Development Branch Changelog
 
 ## Contribute
 
