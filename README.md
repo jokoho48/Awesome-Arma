@@ -70,7 +70,7 @@
 
 - [Offical Wiki](https://community.bistudio.com/wiki/Main_Page) - Official Bohemia Interactive Community Wiki
 - [Arma 3 Discord]() - Offical Arma Discord
-- [[Bohemia Interactive Forums](https://forums.bohemia.net/)](http://forums.bistudio.com/) - 
+- [Bohemia Interactive Forums](http://forums.bistudio.com/) - Official Bohemia Interactive Community Forum
 
 ## Contribute
 
@@ -85,6 +85,5 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [Freeware Icon]: https://raw.githubusercontent.com/jokoho48/Awesome-Arma/master/media/free.svg
-
 [ OSS Icon ]: https://raw.githubusercontent.com/jokoho48/Awesome-Arma/master/media/OSS.svg
 
