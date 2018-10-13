@@ -58,6 +58,8 @@
 - [SQF-VM](https://github.com/SQFvm/vm) - Custom implementation of the ArmA script language SQF. [![Open-Source Software][OSS Icon]](https://github.com/SQFvm/vm)
 - [SQF Parser](https://github.com/LordGolias/sqf) - Parser, static analyzer and interpreter of SQF (Arma programming language). [![Open-Source Software][OSS Icon]](https://github.com/LordGolias/sqf)
 - [BIS-File-Format](https://github.com/Braini01/bis-file-formats) - C# .net standard code base for reading ArmA/BIS file formats. [![Open-Source Software][OSS Icon]](https://github.com/Braini01/bis-file-formats)
+- [SwiftPbo](https://github.com/headswe/SwiftPbo) - C# .net Implementation of Pbo Format. [![Open-Source Software][OSS Icon]](https://github.com/headswe/SwiftPbo)
+- [DokanPbo](https://github.com/Dahlgren/DokanPbo) - Mount PBO files as drives or folders in the file system. [![Open-Source Software][OSS Icon]](https://github.com/Dahlgren/DokanPbo)
 
 ## Discussion and News Forums 
 
