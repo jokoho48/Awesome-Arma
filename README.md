@@ -27,15 +27,15 @@
 
 - [Arma 3 Tools](https://store.steampowered.com/app/233800/Arma_3_Tools/) - Offical Arma 3 Tools ![Freeware][Freeware Icon]
 - [Armake](https://github.com/KoffeinFlummi/armake) - A C implementation of Arma modding tools (PAA conversion, binarization/rapification, PBO packing). [![Open-Source Software][OSS Icon]](https://github.com/KoffeinFlummi/armake)
-- [Mikeros Tools](https://armaservices.maverick-applications.com/Products/MikerosDosTools/) - Paied Version of Fan made Arma 3 Tools
+- [Mikeros Tools](https://armaservices.maverick-applications.com/Products/MikerosDosTools/) - Paid Version of Fan made Arma 3 Tools
 - [Obfusqf](https://obfusqf.com/) - Fan Made Arma 3 PBO build Tool
 - [Mikeros Free Tools](https://armaservices.maverick-applications.com/Products/MikerosDosTools/FileBrowserFree) - Free Fan Made Arma 3 Tools ![Freeware][Freeware Icon]
 
 ### IDE
 
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom)
-  - [linter-sqf](https://atom.io/packages/linter-sqf) - Linter for sqf (arma) launguage. [![Open-Source Software][OSS Icon]](https://github.com/LordGolias/linter-sqf)
-  - [language-arma-atom](https://atom.io/packages/language-arma-atom) - Syntax highlighting, auto-completions and snippets for sqf and other languages used within the Real Virtuality engine. [![Open-Source Software][OSS Icon]](https://atom.io/packages/language-arma-atom)
+  - [linter-sqf](https://atom.io/packages/linter-sqf) - Linter for sqf (arma) language. [![Open-Source Software][OSS Icon]](https://github.com/LordGolias/linter-sqf)
+  - [language-arma-atom](https://atom.io/packages/language-arma-atom) - Syntax highlighting, auto-completion and snippets for sqf and other languages used within the Real Virtuality engine. [![Open-Source Software][OSS Icon]](https://atom.io/packages/language-arma-atom)
   - [language-arma-atom-mapbuilder](https://atom.io/packages/language-arma-atom-mapbuilder) - Mapbuilder extension for Arma Language [![Open-Source Software][OSS Icon]](https://github.com/Adanteh/language-arma-atom-mapbuilder)
   - [arma-atom](https://atom.io/packages/arma-atom) - An atom plugin to run code in ARMA. [![Open-Source Software][OSS Icon]](https://github.com/maca134/arma-atom)
 - [VS Code](https://code.visualstudio.com/) - Visual Studio Scripting Editor based on Electron[![Open-Source Software][OSS Icon]](https://github.com/microsoft/vscode)
@@ -43,7 +43,7 @@
   - [SQFLint](https://marketplace.visualstudio.com/items?itemName=skacekachna.sqflint) - Parse errors, hover help for functions/commands and more. [![Open-Source Software][OSS Icon]](https://github.com/SkaceKamen/vscode-sqflint)
   - [Open Last RPT](https://marketplace.visualstudio.com/items?itemName=bux578.vscode-openlastrpt) - Quickly opens the last Arma 3 log file (`*.rpt`). ![Freeware][Freeware Icon]
   - [SQF Wiki](https://marketplace.visualstudio.com/items?itemName=EelisLynne.sqf-wiki) - Want to look up some SQF functions? Now you can, with just a single click! [![Open-Source Software][OSS Icon]](https://github.com/eelislynne/SQF-Wiki-VSC)
-  - [Arma Dev](https://marketplace.visualstudio.com/items?itemName=ole1986.arma-dev) - Arma 3 Developer automation tools[![Open-Source Software][OSS Icon]](https://github.com/ole1986/vscode-arma-dev)
+  - [Arma Dev](https://marketplace.visualstudio.com/items?itemName=ole1986.arma-dev) - Arma 3 Developer automation tools. [![Open-Source Software][OSS Icon]](https://github.com/ole1986/vscode-arma-dev)
 - [IDEA Community](https://www.jetbrains.com/idea) - Capable and Ergonomic IDE. [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community)
   - [Arma IntelliJ Plugin](https://plugins.jetbrains.com/plugin/9254-arma-intellij-plugin) - Arma IntelliJ Plugin provides support for the SQF scripting language used in the video game Arma 3.[![Open-Source Software][OSS Icon]](https://github.com/kayler-renslow/arma-intellij-plugin)
 - [Poseidon Tools](https://community.bistudio.com/wiki/Poseidon_Tools) - advanced text editor for Arma Scripts & Configs. ![Freeware][Freeware Icon]
@@ -56,15 +56,15 @@
 ### Miscellaneous
 
 - [SQF-VM](https://github.com/SQFvm/vm) - Custom implementation of the ArmA script language SQF. [![Open-Source Software][OSS Icon]](https://github.com/SQFvm/vm)
-- [SQF Parser](https://github.com/LordGolias/sqf) - Parser, static analyzer and interpreter of SQF (Arma programming language). [![Open-Source Software][OSS Icon]](https://github.com/LordGolias/sqf)
+- [SQF Parser](https://github.com/LordGolias/sqf) - Parser, static analyzer, and interpreter of SQF (Arma programming language). [![Open-Source Software][OSS Icon]](https://github.com/LordGolias/sqf)
 - [BIS-File-Format](https://github.com/Braini01/bis-file-formats) - C# .net standard code base for reading ArmA/BIS file formats. [![Open-Source Software][OSS Icon]](https://github.com/Braini01/bis-file-formats)
 - [SwiftPbo](https://github.com/headswe/SwiftPbo) - C# .net Implementation of Pbo Format. [![Open-Source Software][OSS Icon]](https://github.com/headswe/SwiftPbo)
 - [DokanPbo](https://github.com/Dahlgren/DokanPbo) - Mount PBO files as drives or folders in the file system. [![Open-Source Software][OSS Icon]](https://github.com/Dahlgren/DokanPbo)
 
 ## Discussion and News Forums 
 
-- [Offical Wiki](https://community.bistudio.com/wiki/Main_Page) - Official Bohemia Interactive Community Wiki
-- [Arma 3 Discord]() - Offical Arma Discord
+- [Official Wiki](https://community.bistudio.com/wiki/Main_Page) - Official Bohemia Interactive Community Wiki
+- [Arma 3 Discord](https://discord.gg/arma) - Offical Arma Discord
 - [Bohemia Interactive Forums](http://forums.bistudio.com/) - Official Bohemia Interactive Community Forum
 - [Arma 3 Dev Hub](https://dev.arma3.com/) - Official Dev Hub for  [SITREPs](https://dev.arma3.com/sitrep), [SPOTREPs](https://dev.arma3.com/spotrep), [TECHREPs](https://dev.arma3.com/techrep) and [OPREPs](https://dev.arma3.com/oprep)
 - [Arma 3 Dev Branch Changelog](https://forums.bistudio.com/topic/140837-development-branch-changelog/?do=getLastComment) - Official Development Branch Changelog
