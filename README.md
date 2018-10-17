@@ -12,10 +12,10 @@
 # <img src="https://raw.githubusercontent.com/jokoho48/Awesome-Arma/master/media/TOC.png" alt="table of contents">
 
 - [Applications](#applications)
-  - [Build Tools](#build_tools)
+  - [Build Tools](#build-tools)
   - [IDE](#ide)
   - [Miscellaneous](#miscellaneous)
-- [Discussion and News Forums](#discussion_and_news_forums)
+- [Discussion and News Forums](#discussion-and-news-forums)
 - [Contribute](#contribute)
 - [License](#license)
 
