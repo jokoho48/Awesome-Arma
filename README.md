@@ -4,7 +4,7 @@
 
 > An awesome & curated list of best applications, tools and Libraries for Arma 3.
 
-> *This Awesome Repository is highly inspired from rahulkapoor90's [Awesome windows.](https://github.com/Awesome-Windows "Awesome windows")*
+> *This Awesome Repository is highly inspired by rahulkapoor90's [Awesome windows.](https://github.com/Awesome-Windows "Awesome windows")*
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 
 
@@ -25,7 +25,7 @@
 
 ### Build Tools
 
-- [Arma 3 Tools](https://store.steampowered.com/app/233800/Arma_3_Tools/) - Offical Arma 3 Tools ![Freeware][Freeware Icon]
+- [Arma 3 Tools](https://store.steampowered.com/app/233800/Arma_3_Tools/) - Official Arma 3 Tools ![Freeware][Freeware Icon]
 - [Armake](https://github.com/KoffeinFlummi/armake) - A C implementation of Arma modding tools (PAA conversion, binarization/rapification, PBO packing). [![Open-Source Software][OSS Icon]](https://github.com/KoffeinFlummi/armake)
 - [Mikeros Tools](https://armaservices.maverick-applications.com/Products/MikerosDosTools/) - Paid Version of Fan made Arma 3 Tools
 - [Obfusqf](https://obfusqf.com/) - Fan Made Arma 3 PBO build Tool
