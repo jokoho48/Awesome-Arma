@@ -60,6 +60,7 @@
 - [BIS-File-Format](https://github.com/Braini01/bis-file-formats) - C# .net standard code base for reading ArmA/BIS file formats. [![Open-Source Software][OSS Icon]](https://github.com/Braini01/bis-file-formats)
 - [SwiftPbo](https://github.com/headswe/SwiftPbo) - C# .net Implementation of Pbo Format. [![Open-Source Software][OSS Icon]](https://github.com/headswe/SwiftPbo)
 - [DokanPbo](https://github.com/Dahlgren/DokanPbo) - Mount PBO files as drives or folders in the file system. [![Open-Source Software][OSS Icon]](https://github.com/Dahlgren/DokanPbo)
+- [ArmaDebugEngine](https://github.com/dedmen/ArmaDebugEngine/releases) - A experimental Script Debugger for Arma 3. [![Open-Source Software][OSS Icon]](https://github.com/dedmen/ArmaDebugEngine)
 
 ## Discussion and News Forums 
 
